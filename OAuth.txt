@@ -1,0 +1,6 @@
+{
+    "user_id": 3007269,
+    "username": "Varsitysccr3",
+    "access_token": "a03893760cf2ec2d19cd2b665239ef0a1cbd2780",
+    "scope": "read,watch_lists,direct_messages,publish_messages,publish_watch_lists,follow_users,follow_stocks"
+}
